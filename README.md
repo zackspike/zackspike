@@ -14,7 +14,7 @@ Currently, I work as an **AI Quality Assurance Specialist at Outlier (Scale AI)*
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
 **Languages**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -27,7 +27,7 @@ Currently, I work as an **AI Quality Assurance Specialist at Outlier (Scale AI)*
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 Here are some projects I've built during my academic journey:
 
